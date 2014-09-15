@@ -32,7 +32,7 @@
  	background: #eee;
  }
 .list_register_close {
- 	background-image: url(img/close.png);
+ 	background-image: url(../img/close.png);
 	position: absolute;
 	left: -14px;
 	top: -14px;
